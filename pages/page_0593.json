@@ -1,0 +1,190 @@
+{
+ "pageNumber": 593,
+ "printedPageNumber": "589",
+ "width": 1737,
+ "height": 2500,
+ "unit": "pixel",
+ "markdown": "<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_77_141_690_598.jpg\" alt=\"Image\" width=\"35%\" /></div>\n\n\nしようにかんじゃしんさついし\n\n小児患者を診察する医師(8エチオピア)\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_15_686_817_1419.jpg\" alt=\"Image\" width=\"46%\" /></div>\n\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_862_146_1539_600.jpg\" alt=\"Image\" width=\"38%\" /></div>\n\n\n<div style=\"text-align: center;\">なんみんべんむかん 国連難民高等弁務官事務所(UNHCR）の支 えん 援を受けたソマリア難民のくらし (9エチオピア) </div>\n\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_934_791_1536_1144.jpg\" alt=\"Image\" width=\"34%\" /></div>\n\n\n<div style=\"text-align: center;\">ひんみん  食料の配給を待つ国内避難民  (10ソマリア) </div>\n\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_82_1447_620_1822.jpg\" alt=\"Image\" width=\"30%\" /></div>\n\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_82_1834_750_2249.jpg\" alt=\"Image\" width=\"38%\" /></div>\n\n\n<div style=\"text-align: center;\">じけんかつしうこく同時多発テロ事件(3アメリカ合衆国)</div>\n\n\nじしんさいがいきゆう地震災害の救じよ\n\n助活動を行う\n\nきん日本の国際緊きゆ\n\n急援助隊\n\n(1ネパール)\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_934_1292_1535_1686.jpg\" alt=\"Image\" width=\"34%\" /></div>\n\n\n<div style=\"text-align: center;\">じらいじよきよいんぎつし 地雷除去員の技術指導(12カンボジア)</div>\n\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_898_1789_1533_2209.jpg\" alt=\"Image\" width=\"36%\" /></div>\n\n\n<div style=\"text-align: center;\">せいぞんしゃ 地震でくずれた建物から生存者を救出する活動(14ハイチ)</div>\n",
+ "blocks": [
+  {
+   "id": "p0593_b00",
+   "type": "figure",
+   "bbox": [
+    77,
+    141,
+    690,
+    598
+   ],
+   "content": "国境なき医師団<NGO>",
+   "figureId": "fig_p0593_01"
+  },
+  {
+   "id": "p0593_b01",
+   "type": "paragraph",
+   "bbox": [
+    86,
+    599,
+    684,
+    659
+   ],
+   "content": "しようにかんじゃしんさついし\n小児患者を診察する医師(8エチオピア)"
+  },
+  {
+   "id": "p0593_b02",
+   "type": "figure",
+   "bbox": [
+    15,
+    686,
+    817,
+    1419
+   ],
+   "content": "13\nQ",
+   "figureId": "fig_p0593_02"
+  },
+  {
+   "id": "p0593_b03",
+   "type": "figure",
+   "bbox": [
+    862,
+    146,
+    1539,
+    600
+   ],
+   "figureId": "fig_p0593_03"
+  },
+  {
+   "id": "p0593_b04",
+   "type": "caption",
+   "bbox": [
+    871,
+    601,
+    1533,
+    745
+   ],
+   "content": "なんみんべんむかん\n国連難民高等弁務官事務所(UNHCR）の支\nえん\n援を受けたソマリア難民のくらし\n(9エチオピア)"
+  },
+  {
+   "id": "p0593_b05",
+   "type": "figure",
+   "bbox": [
+    934,
+    791,
+    1536,
+    1144
+   ],
+   "figureId": "fig_p0593_04"
+  },
+  {
+   "id": "p0593_b06",
+   "type": "caption",
+   "bbox": [
+    935,
+    1146,
+    1540,
+    1236
+   ],
+   "content": "ひんみん\n\n食料の配給を待つ国内避難民\n\n(10ソマリア)"
+  },
+  {
+   "id": "p0593_b07",
+   "type": "figure",
+   "bbox": [
+    82,
+    1447,
+    620,
+    1822
+   ],
+   "figureId": "fig_p0593_05"
+  },
+  {
+   "id": "p0593_b08",
+   "type": "figure",
+   "bbox": [
+    82,
+    1834,
+    750,
+    2249
+   ],
+   "figureId": "fig_p0593_06"
+  },
+  {
+   "id": "p0593_b09",
+   "type": "caption",
+   "bbox": [
+    82,
+    2257,
+    637,
+    2309
+   ],
+   "content": "じけんかつしうこく同時多発テロ事件(3アメリカ合衆国)"
+  },
+  {
+   "id": "p0593_b10",
+   "type": "paragraph",
+   "bbox": [
+    652,
+    1578,
+    862,
+    1821
+   ],
+   "content": "じしんさいがいきゆう地震災害の救じよ\n助活動を行う\nきん日本の国際緊きゆ\n急援助隊\n(1ネパール)"
+  },
+  {
+   "id": "p0593_b11",
+   "type": "figure",
+   "bbox": [
+    934,
+    1292,
+    1535,
+    1686
+   ],
+   "content": "日本地雷処理を支援する会<NPO>",
+   "figureId": "fig_p0593_07"
+  },
+  {
+   "id": "p0593_b12",
+   "type": "caption",
+   "bbox": [
+    938,
+    1685,
+    1503,
+    1740
+   ],
+   "content": "じらいじよきよいんぎつし\n地雷除去員の技術指導(12カンボジア)"
+  },
+  {
+   "id": "p0593_b13",
+   "type": "figure",
+   "bbox": [
+    898,
+    1789,
+    1533,
+    2209
+   ],
+   "content": "国連平和維持活動（PKO）",
+   "figureId": "fig_p0593_08"
+  },
+  {
+   "id": "p0593_b14",
+   "type": "caption",
+   "bbox": [
+    901,
+    2216,
+    1529,
+    2311
+   ],
+   "content": "せいぞんしゃ\n地震でくずれた建物から生存者を救出する活動(14ハイチ)"
+  },
+  {
+   "id": "p0593_b15",
+   "type": "pageNumber",
+   "bbox": [
+    1624,
+    2420,
+    1686,
+    2455
+   ],
+   "content": "589"
+  }
+ ]
+}

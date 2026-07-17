@@ -1,0 +1,287 @@
+{
+ "pageNumber": 590,
+ "printedPageNumber": null,
+ "width": 1739,
+ "height": 2499,
+ "unit": "pixel",
+ "markdown": "## 28 地球環境問題\n\n## おんだん 地球温暖化\n\n## 地球温暖化のしくみ\n\n2太陽光が地表で③再放射さはね返り、熱とた熱が温室して放射されるほうしや効果ガスの層にあたる\n\n## 太陽\n\nこうか①温室効果ガスの層なるが厚くあ室効果ガス排出\n\n④地球の気温が上がる\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_744_335_1213_664.jpg\" alt=\"Image\" width=\"26%\" /></div>\n\n\n<div style=\"text-align: center;\">ひようが とけだす氷河(南極)</div>\n\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_1237_328_1659_660.jpg\" alt=\"Image\" width=\"24%\" /></div>\n\n\n<div style=\"text-align: center;\">じようしようすいほつきき 海面上昇で水没の危機にあ る島(2ツバル)  </div>\n\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_1055_936_1729_1581.jpg\" alt=\"Image\" width=\"38%\" /></div>\n\n\n## いじようきしょう地球温暖化による異常気象\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_549_1010_1028_1348.jpg\" alt=\"Image\" width=\"27%\" /></div>\n\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_210_1376_763_1752.jpg\" alt=\"Image\" width=\"31%\" /></div>\n\n\n<div style=\"text-align: center;\">だいきぼこうずい大規模な洪水(4パキスタン)</div>\n\n\n水不足と高温でひびC \n\n割れた地面\n\n(③セネガル)\n\n## さばく 砂漠化\n\n## そうはかい オゾソ層の破壊(7南極付近）\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_520_1842_898_2118.jpg\" alt=\"Image\" width=\"21%\" /></div>\n\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_208_2102_663_2301.jpg\" alt=\"Image\" width=\"26%\" /></div>\n\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_990_1922_1701_2298.jpg\" alt=\"Image\" width=\"40%\" /></div>\n\n\n<div style=\"text-align: center;\">砂漠化が進むアラル海 (6ウズベキスタン)</div>\n\n\nげんいん\n\n砂漠化の原因の1つである塩害(⑤東テモール）",
+ "blocks": [
+  {
+   "id": "p0590_b00",
+   "type": "aside_text",
+   "bbox": [
+    2,
+    14,
+    151,
+    2462
+   ],
+   "content": "586"
+  },
+  {
+   "id": "p0590_b01",
+   "type": "heading",
+   "bbox": [
+    356,
+    127,
+    913,
+    207
+   ],
+   "content": "28地球環境問題"
+  },
+  {
+   "id": "p0590_b02",
+   "type": "heading",
+   "bbox": [
+    211,
+    271,
+    432,
+    332
+   ],
+   "content": "おんだん\n地球温暖化"
+  },
+  {
+   "id": "p0590_b03",
+   "type": "heading",
+   "bbox": [
+    221,
+    363,
+    599,
+    408
+   ],
+   "content": "地球温暖化のしくみ"
+  },
+  {
+   "id": "p0590_b04",
+   "type": "paragraph",
+   "bbox": [
+    219,
+    430,
+    704,
+    574
+   ],
+   "content": "2太陽光が地表で③再放射さはね返り、熱とた熱が温室して放射されるほうしや効果ガスの層にあたる"
+  },
+  {
+   "id": "p0590_b05",
+   "type": "heading",
+   "bbox": [
+    304,
+    581,
+    371,
+    623
+   ],
+   "content": "太陽"
+  },
+  {
+   "id": "p0590_b06",
+   "type": "paragraph",
+   "bbox": [
+    223,
+    676,
+    377,
+    843
+   ],
+   "content": "こうか①温室効果ガスの層なるが厚くあ室効果ガス排出"
+  },
+  {
+   "id": "p0590_b07",
+   "type": "paragraph",
+   "bbox": [
+    579,
+    616,
+    704,
+    714
+   ],
+   "content": "④地球の気温が上がる"
+  },
+  {
+   "id": "p0590_b08",
+   "type": "figure",
+   "bbox": [
+    744,
+    335,
+    1213,
+    664
+   ],
+   "figureId": "fig_p0590_01"
+  },
+  {
+   "id": "p0590_b09",
+   "type": "caption",
+   "bbox": [
+    745,
+    669,
+    1089,
+    720
+   ],
+   "content": "ひようが\nとけだす氷河(南極)"
+  },
+  {
+   "id": "p0590_b10",
+   "type": "figure",
+   "bbox": [
+    1237,
+    328,
+    1659,
+    660
+   ],
+   "figureId": "fig_p0590_02"
+  },
+  {
+   "id": "p0590_b11",
+   "type": "caption",
+   "bbox": [
+    1239,
+    665,
+    1662,
+    766
+   ],
+   "content": "じようしようすいほつきき\n海面上昇で水没の危機にあ\nる島(2ツバル)"
+  },
+  {
+   "id": "p0590_b12",
+   "type": "figure",
+   "bbox": [
+    1055,
+    936,
+    1729,
+    1581
+   ],
+   "content": "9\n8\n\n3\n\n5\n00",
+   "figureId": "fig_p0590_03"
+  },
+  {
+   "id": "p0590_b13",
+   "type": "heading",
+   "bbox": [
+    214,
+    919,
+    719,
+    982
+   ],
+   "content": "いじようきしょう地球温暖化による異常気象"
+  },
+  {
+   "id": "p0590_b14",
+   "type": "figure",
+   "bbox": [
+    549,
+    1010,
+    1028,
+    1348
+   ],
+   "figureId": "fig_p0590_04"
+  },
+  {
+   "id": "p0590_b15",
+   "type": "figure",
+   "bbox": [
+    210,
+    1376,
+    763,
+    1752
+   ],
+   "figureId": "fig_p0590_05"
+  },
+  {
+   "id": "p0590_b16",
+   "type": "caption",
+   "bbox": [
+    777,
+    1648,
+    1031,
+    1750
+   ],
+   "content": "だいきぼこうずい大規模な洪水(4パキスタン)"
+  },
+  {
+   "id": "p0590_b17",
+   "type": "paragraph",
+   "bbox": [
+    213,
+    1008,
+    541,
+    1142
+   ],
+   "content": "水不足と高温でひびC \n割れた地面\n(③セネガル)"
+  },
+  {
+   "id": "p0590_b18",
+   "type": "heading",
+   "bbox": [
+    216,
+    1823,
+    351,
+    1891
+   ],
+   "content": "さばく\n砂漠化"
+  },
+  {
+   "id": "p0590_b19",
+   "type": "heading",
+   "bbox": [
+    982,
+    1821,
+    1513,
+    1896
+   ],
+   "content": "そうはかい\nオゾソ層の破壊(7南極付近）"
+  },
+  {
+   "id": "p0590_b20",
+   "type": "figure",
+   "bbox": [
+    520,
+    1842,
+    898,
+    2118
+   ],
+   "figureId": "fig_p0590_06"
+  },
+  {
+   "id": "p0590_b21",
+   "type": "figure",
+   "bbox": [
+    208,
+    2102,
+    663,
+    2301
+   ],
+   "figureId": "fig_p0590_07"
+  },
+  {
+   "id": "p0590_b22",
+   "type": "figure",
+   "bbox": [
+    990,
+    1922,
+    1701,
+    2298
+   ],
+   "content": "1801979年10月米国航空宇宙局(NASA）の街星测一夕基作成象1802022年10月matm-cm 80'南極上空のオゾンホール",
+   "figureId": "fig_p0590_08"
+  },
+  {
+   "id": "p0590_b23",
+   "type": "caption",
+   "bbox": [
+    691,
+    2165,
+    918,
+    2297
+   ],
+   "content": "砂漠化が進むアラル海\n(6ウズベキスタン)"
+  },
+  {
+   "id": "p0590_b24",
+   "type": "paragraph",
+   "bbox": [
+    248,
+    1908,
+    515,
+    2055
+   ],
+   "content": "げんいん\n砂漠化の原因の1つである塩害(⑤東テモール）"
+  }
+ ]
+}

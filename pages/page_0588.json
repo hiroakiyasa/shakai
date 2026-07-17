@@ -1,0 +1,65 @@
+{
+ "pageNumber": 588,
+ "printedPageNumber": null,
+ "width": 1733,
+ "height": 2500,
+ "unit": "pixel",
+ "markdown": "# 27世界の国々とおもな国旗\n\n大西洋\n\n首都\n\nれんぽうロシア連邦",
+ "blocks": [
+  {
+   "id": "p0588_b00",
+   "type": "aside_text",
+   "bbox": [
+    1,
+    10,
+    136,
+    2480
+   ],
+   "content": "584"
+  },
+  {
+   "id": "p0588_b01",
+   "type": "heading",
+   "bbox": [
+    315,
+    125,
+    1261,
+    212
+   ],
+   "content": "27世界の国々とおもな国旗"
+  },
+  {
+   "id": "p0588_b02",
+   "type": "paragraph",
+   "bbox": [
+    220,
+    1806,
+    346,
+    1846
+   ],
+   "content": "大西洋"
+  },
+  {
+   "id": "p0588_b03",
+   "type": "paragraph",
+   "bbox": [
+    200,
+    1982,
+    321,
+    2023
+   ],
+   "content": "首都"
+  },
+  {
+   "id": "p0588_b04",
+   "type": "paragraph",
+   "bbox": [
+    1439,
+    2247,
+    1618,
+    2308
+   ],
+   "content": "れんぽうロシア連邦"
+  }
+ ]
+}

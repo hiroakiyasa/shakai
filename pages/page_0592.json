@@ -1,0 +1,188 @@
+{
+ "pageNumber": 592,
+ "printedPageNumber": null,
+ "width": 1737,
+ "height": 2500,
+ "unit": "pixel",
+ "markdown": "# 62世界の課題と平和への取り組み\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_204_271_854_734.jpg\" alt=\"Image\" width=\"37%\" /></div>\n\n\n<div style=\"text-align: center;\">しんこうはかい ロシアの侵攻で破壊されたアパートにかかげられたウクライナ国旗(1ウクライナ)</div>\n\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_873_289_1424_640.jpg\" alt=\"Image\" width=\"31%\" /></div>\n\n\n<div style=\"text-align: center;\">シリア内戦でばくげき 爆撃された都市ヒムス (2シリア)</div>\n\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_1045_674_1728_1302.jpg\" alt=\"Image\" width=\"39%\" /></div>\n\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_315_853_855_1210.jpg\" alt=\"Image\" width=\"31%\" /></div>\n\n\n<div style=\"text-align: center;\">しんがたかんせんしようたいく新型コロナウイルス感染症対策のいりようしえんぶつしはいふ 医療支援物資を配布する赤十字国 さい 際委員会(③パレスチナ)</div>\n\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_215_1383_860_1797.jpg\" alt=\"Image\" width=\"37%\" /></div>\n\n\n<div style=\"text-align: center;\">イラク戦争で破壊された首都バグダツド(4イラク)</div>\n\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_880_1489_1419_1864.jpg\" alt=\"Image\" width=\"31%\" /></div>\n\n\n<div style=\"text-align: center;\">しよ<りよう 国連世界食精計画 (WFP)の倉庫への はんにゆう 食料搬入 (6南スーダン) は1f  激しい内戦後の ひなんみん 国内避難民 (7コンゴ民主共和国) </div>\n\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_206_1935_747_2297.jpg\" alt=\"Image\" width=\"31%\" /></div>\n\n\n<div style=\"text-align: center;\">ききん国連児童基金ユニセフ(UNICEF)がせつち 設置しテント学校で授業を受ける子どもたち (⑤イラク)</div>\n\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_1098_1932_1658_2296.jpg\" alt=\"Image\" width=\"32%\" /></div>\n",
+ "blocks": [
+  {
+   "id": "p0592_b00",
+   "type": "aside_text",
+   "bbox": [
+    1,
+    14,
+    145,
+    2444
+   ],
+   "content": "588"
+  },
+  {
+   "id": "p0592_b01",
+   "type": "heading",
+   "bbox": [
+    340,
+    125,
+    1483,
+    211
+   ],
+   "content": "62世界の課題と平和への取り組み"
+  },
+  {
+   "id": "p0592_b02",
+   "type": "figure",
+   "bbox": [
+    204,
+    271,
+    854,
+    734
+   ],
+   "figureId": "fig_p0592_01"
+  },
+  {
+   "id": "p0592_b03",
+   "type": "caption",
+   "bbox": [
+    209,
+    739,
+    868,
+    837
+   ],
+   "content": "しんこうはかい\nロシアの侵攻で破壊されたアパートにかかげられたウクライナ国旗(1ウクライナ)"
+  },
+  {
+   "id": "p0592_b04",
+   "type": "figure",
+   "bbox": [
+    873,
+    289,
+    1424,
+    640
+   ],
+   "figureId": "fig_p0592_02"
+  },
+  {
+   "id": "p0592_b05",
+   "type": "caption",
+   "bbox": [
+    1437,
+    466,
+    1663,
+    640
+   ],
+   "content": "シリア内戦でばくげき\n爆撃された都市ヒムス\n(2シリア)"
+  },
+  {
+   "id": "p0592_b06",
+   "type": "figure",
+   "bbox": [
+    1045,
+    674,
+    1728,
+    1302
+   ],
+   "content": "45\n11\n2\n\n3\n\n610",
+   "figureId": "fig_p0592_03"
+  },
+  {
+   "id": "p0592_b07",
+   "type": "figure",
+   "bbox": [
+    315,
+    853,
+    855,
+    1210
+   ],
+   "content": "ICRC",
+   "figureId": "fig_p0592_04"
+  },
+  {
+   "id": "p0592_b08",
+   "type": "caption",
+   "bbox": [
+    318,
+    1213,
+    848,
+    1365
+   ],
+   "content": "しんがたかんせんしようたいく新型コロナウイルス感染症対策のいりようしえんぶつしはいふ\n医療支援物資を配布する赤十字国\nさい\n際委員会(③パレスチナ)"
+  },
+  {
+   "id": "p0592_b09",
+   "type": "figure",
+   "bbox": [
+    215,
+    1383,
+    860,
+    1797
+   ],
+   "figureId": "fig_p0592_05"
+  },
+  {
+   "id": "p0592_b10",
+   "type": "caption",
+   "bbox": [
+    224,
+    1802,
+    850,
+    1886
+   ],
+   "content": "イラク戦争で破壊された首都バグダツド(4イラク)"
+  },
+  {
+   "id": "p0592_b11",
+   "type": "figure",
+   "bbox": [
+    880,
+    1489,
+    1419,
+    1864
+   ],
+   "figureId": "fig_p0592_06"
+  },
+  {
+   "id": "p0592_b12",
+   "type": "caption",
+   "bbox": [
+    754,
+    1921,
+    1094,
+    2296
+   ],
+   "content": "しよ<りよう\n国連世界食精計画\n(WFP)の倉庫への\nはんにゆう\n食料搬入\n(6南スーダン)\nは1f \n激しい内戦後の\nひなんみん\n国内避難民\n(7コンゴ民主共和国)"
+  },
+  {
+   "id": "p0592_b13",
+   "type": "figure",
+   "bbox": [
+    206,
+    1935,
+    747,
+    2297
+   ],
+   "figureId": "fig_p0592_07"
+  },
+  {
+   "id": "p0592_b14",
+   "type": "caption",
+   "bbox": [
+    1434,
+    1538,
+    1663,
+    1866
+   ],
+   "content": "ききん国連児童基金ユニセフ(UNICEF)がせつち\n設置しテント学校で授業を受ける子どもたち\n(⑤イラク)"
+  },
+  {
+   "id": "p0592_b15",
+   "type": "figure",
+   "bbox": [
+    1098,
+    1932,
+    1658,
+    2296
+   ],
+   "figureId": "fig_p0592_08"
+  }
+ ]
+}

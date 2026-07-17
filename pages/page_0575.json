@@ -1,0 +1,210 @@
+{
+ "pageNumber": 575,
+ "printedPageNumber": "571",
+ "width": 1744,
+ "height": 2501,
+ "unit": "pixel",
+ "markdown": "## 22 系図\n\n## ふじわらこうしつけいず藤原氏と皇室の系図\n\nへいあんせかんせいじぜんせいき(平安時代。摂関政治全盛期)\n\n<div style=\"text-align: center;\">ほうじよう 北条氏の系図</div>\n\n\n<div style=\"text-align: center;\">かま<5(鎌倉時代)</div>\n\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_885_384_1555_1281.jpg\" alt=\"Image\" width=\"38%\" /></div>\n\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_195_405_838_1057.jpg\" alt=\"Image\" width=\"36%\" /></div>\n\n\nせつしょうかんぱ<（·摂政関白）\n\n## あしかが 足利氏の系図\n\n<div style=\"text-align: center;\">むろまち （室町時代）</div>\n\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_154_1407_837_2319.jpg\" alt=\"Image\" width=\"39%\" /></div>\n\n\n## とくがわ 徳川氏の系図\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_868_1417_1550_2320.jpg\" alt=\"Image\" width=\"39%\" /></div>\n\n\nえど\n\n(江戸時代)\n\n地\n\n理\n\n2\n\n治\n\n",
+ "blocks": [
+  {
+   "id": "p0575_b00",
+   "type": "aside_text",
+   "bbox": [
+    20,
+    28,
+    111,
+    2483
+   ]
+  },
+  {
+   "id": "p0575_b01",
+   "type": "heading",
+   "bbox": [
+    311,
+    136,
+    663,
+    222
+   ],
+   "content": "22系図"
+  },
+  {
+   "id": "p0575_b02",
+   "type": "heading",
+   "bbox": [
+    176,
+    267,
+    567,
+    342
+   ],
+   "content": "ふじわらこうしつけいず藤原氏と皇室の系図"
+  },
+  {
+   "id": "p0575_b03",
+   "type": "paragraph",
+   "bbox": [
+    396,
+    350,
+    816,
+    405
+   ],
+   "content": "へいあんせかんせいじぜんせいき(平安時代。摂関政治全盛期)"
+  },
+  {
+   "id": "p0575_b04",
+   "type": "caption",
+   "bbox": [
+    890,
+    271,
+    1153,
+    346
+   ],
+   "content": "ほうじよう\n北条氏の系図"
+  },
+  {
+   "id": "p0575_b05",
+   "type": "caption",
+   "bbox": [
+    1375,
+    280,
+    1536,
+    336
+   ],
+   "content": "かま<5(鎌倉時代)"
+  },
+  {
+   "id": "p0575_b06",
+   "type": "figure",
+   "bbox": [
+    885,
+    384,
+    1555,
+    1281
+   ],
+   "content": "5\n\n3\n\nときぶさ\n\nう5もろとき\nまさこ\n\n2じとうせち",
+   "figureId": "fig_p0575_01"
+  },
+  {
+   "id": "p0575_b07",
+   "type": "figure",
+   "bbox": [
+    195,
+    405,
+    838,
+    1057
+   ],
+   "figureId": "fig_p0575_02"
+  },
+  {
+   "id": "p0575_b08",
+   "type": "paragraph",
+   "bbox": [
+    552,
+    1206,
+    810,
+    1262
+   ],
+   "content": "せつしょうかんぱ<（·摂政関白）"
+  },
+  {
+   "id": "p0575_b09",
+   "type": "heading",
+   "bbox": [
+    178,
+    1335,
+    433,
+    1404
+   ],
+   "content": "あしかが\n足利氏の系図"
+  },
+  {
+   "id": "p0575_b10",
+   "type": "caption",
+   "bbox": [
+    660,
+    1339,
+    817,
+    1395
+   ],
+   "content": "むろまち\n（室町時代）"
+  },
+  {
+   "id": "p0575_b11",
+   "type": "figure",
+   "bbox": [
+    154,
+    1407,
+    837,
+    2319
+   ],
+   "content": "もとうじよしのり\n\nよしひで",
+   "figureId": "fig_p0575_03"
+  },
+  {
+   "id": "p0575_b12",
+   "type": "heading",
+   "bbox": [
+    892,
+    1341,
+    1148,
+    1406
+   ],
+   "content": "とくがわ\n徳川氏の系図"
+  },
+  {
+   "id": "p0575_b13",
+   "type": "figure",
+   "bbox": [
+    868,
+    1417,
+    1550,
+    2320
+   ],
+   "content": "Aπさんぎんこうたい\n\nいえつな\n\nちうほうかいかくたやす\n\nかんせい",
+   "figureId": "fig_p0575_04"
+  },
+  {
+   "id": "p0575_b14",
+   "type": "paragraph",
+   "bbox": [
+    1372,
+    1340,
+    1532,
+    1398
+   ],
+   "content": "えど\n(江戸時代)"
+  },
+  {
+   "id": "p0575_b15",
+   "type": "paragraph",
+   "bbox": [
+    1635,
+    263,
+    1738,
+    528
+   ],
+   "content": "地\n\n理\n\n2\n治"
+  },
+  {
+   "id": "p0575_b16",
+   "type": "pageHeader",
+   "bbox": [
+    1640,
+    120,
+    1736,
+    209
+   ],
+   "content": "資料編"
+  },
+  {
+   "id": "p0575_b17",
+   "type": "pageNumber",
+   "bbox": [
+    1628,
+    2417,
+    1686,
+    2457
+   ],
+   "content": "571"
+  }
+ ]
+}

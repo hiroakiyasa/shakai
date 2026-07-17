@@ -1,0 +1,266 @@
+{
+ "pageNumber": 591,
+ "printedPageNumber": "587",
+ "width": 1737,
+ "height": 2500,
+ "unit": "pixel",
+ "markdown": "## げんしょう  野生生物の減少  ぜつめつきけんせい  絶滅の危険性がある動物 \n\nおんだんえい温暖化の影きよう\n\n響を受けるホツキクグマ\n\n\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_291_305_723_572.jpg\" alt=\"Image\" width=\"24%\" /></div>\n\n\nはかい\n\n自然破壊やらんかく\n\n乱獲で減少するアフリカゾウ\n\n\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_294_622_722_915.jpg\" alt=\"Image\" width=\"24%\" /></div>\n\n\n<div style=\"text-align: center;\">さんせいう酸性雨</div>\n\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_829_224_1157_676.jpg\" alt=\"Image\" width=\"18%\" /></div>\n\n\n<div style=\"text-align: center;\">ひがい 酸性雨の被害を受けた森林(⑧ドイツ)</div>\n\n\n## おせん海洋污染\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_15_963_717_1657.jpg\" alt=\"Image\" width=\"40%\" /></div>\n\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_615_1819_915_2215.jpg\" alt=\"Image\" width=\"17%\" /></div>\n\n\n<div style=\"text-align: center;\">焼畑農業</div>\n\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_76_1800_589_2254.jpg\" alt=\"Image\" width=\"29%\" /></div>\n\n\n<div style=\"text-align: center;\">ばつさい 熱帯林の伐採(1マレーシア)</div>\n\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_829_943_1536_1321.jpg\" alt=\"Image\" width=\"40%\" /></div>\n\n\n<div style=\"text-align: center;\">プラスチックごみでおおわれた海岸 (10インドネシア)</div>\n\n\n水没の危機にあるところ\n\n砂漠化が進んでいるところ\n\n酸性雨の被害があるところ\n\n水がよごれているところ\n\n熱帯林が減っているところ\n\n\n\n<div style=\"text-align: center;\">国別の森林減少面積</div>\n\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_chart_box_952_1781_1529_2287.jpg\" alt=\"Image\" width=\"33%\" /></div>\n\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_1203_197_1535_673.jpg\" alt=\"Image\" width=\"19%\" /></div>\n\n\n<div style=\"text-align: center;\">どうぞう酸性雨でとけた銅像(9ベルギー)</div>\n",
+ "blocks": [
+  {
+   "id": "p0591_b00",
+   "type": "heading",
+   "bbox": [
+    90,
+    135,
+    555,
+    277
+   ],
+   "content": "げんしょう\n\n野生生物の減少\n\nぜつめつきけんせい\n\n絶滅の危険性がある動物"
+  },
+  {
+   "id": "p0591_b01",
+   "type": "paragraph",
+   "bbox": [
+    109,
+    398,
+    284,
+    597
+   ],
+   "content": "おんだんえい温暖化の影きよう\n響を受けるホツキクグマ"
+  },
+  {
+   "id": "p0591_b02",
+   "type": "figure",
+   "bbox": [
+    291,
+    305,
+    723,
+    572
+   ],
+   "figureId": "fig_p0591_01"
+  },
+  {
+   "id": "p0591_b03",
+   "type": "paragraph",
+   "bbox": [
+    87,
+    721,
+    284,
+    920
+   ],
+   "content": "はかい\n自然破壊やらんかく\n乱獲で減少するアフリカゾウ"
+  },
+  {
+   "id": "p0591_b04",
+   "type": "figure",
+   "bbox": [
+    294,
+    622,
+    722,
+    915
+   ],
+   "content": "OA",
+   "figureId": "fig_p0591_02"
+  },
+  {
+   "id": "p0591_b05",
+   "type": "caption",
+   "bbox": [
+    836,
+    128,
+    961,
+    200
+   ],
+   "content": "さんせいう酸性雨"
+  },
+  {
+   "id": "p0591_b06",
+   "type": "figure",
+   "bbox": [
+    829,
+    224,
+    1157,
+    676
+   ],
+   "figureId": "fig_p0591_03"
+  },
+  {
+   "id": "p0591_b07",
+   "type": "caption",
+   "bbox": [
+    834,
+    680,
+    1160,
+    777
+   ],
+   "content": "ひがい\n酸性雨の被害を受けた森林(⑧ドイツ)"
+  },
+  {
+   "id": "p0591_b08",
+   "type": "heading",
+   "bbox": [
+    830,
+    848,
+    1005,
+    917
+   ],
+   "content": "おせん海洋污染"
+  },
+  {
+   "id": "p0591_b09",
+   "type": "figure",
+   "bbox": [
+    15,
+    963,
+    717,
+    1657
+   ],
+   "content": "22\n.",
+   "figureId": "fig_p0591_04"
+  },
+  {
+   "id": "p0591_b10",
+   "type": "figure",
+   "bbox": [
+    615,
+    1819,
+    915,
+    2215
+   ],
+   "figureId": "fig_p0591_05"
+  },
+  {
+   "id": "p0591_b11",
+   "type": "caption",
+   "bbox": [
+    622,
+    2219,
+    780,
+    2258
+   ],
+   "content": "焼畑農業"
+  },
+  {
+   "id": "p0591_b12",
+   "type": "figure",
+   "bbox": [
+    76,
+    1800,
+    589,
+    2254
+   ],
+   "content": "熱帯林の減少",
+   "figureId": "fig_p0591_06"
+  },
+  {
+   "id": "p0591_b13",
+   "type": "caption",
+   "bbox": [
+    84,
+    2257,
+    516,
+    2307
+   ],
+   "content": "ばつさい\n熱帯林の伐採(1マレーシア)"
+  },
+  {
+   "id": "p0591_b14",
+   "type": "figure",
+   "bbox": [
+    829,
+    943,
+    1536,
+    1321
+   ],
+   "figureId": "fig_p0591_07"
+  },
+  {
+   "id": "p0591_b15",
+   "type": "caption",
+   "bbox": [
+    1137,
+    1330,
+    1531,
+    1467
+   ],
+   "content": "プラスチックごみでおおわれた海岸\n(10インドネシア)"
+  },
+  {
+   "id": "p0591_b16",
+   "type": "paragraph",
+   "bbox": [
+    675,
+    1346,
+    1098,
+    1607
+   ],
+   "content": "水没の危機にあるところ\n砂漠化が進んでいるところ\n酸性雨の被害があるところ\n水がよごれているところ\n熱帯林が減っているところ"
+  },
+  {
+   "id": "p0591_b17",
+   "type": "caption",
+   "bbox": [
+    976,
+    1710,
+    1338,
+    1758
+   ],
+   "content": "国別の森林減少面積"
+  },
+  {
+   "id": "p0591_b18",
+   "type": "chart",
+   "bbox": [
+    952,
+    1781,
+    1529,
+    2287
+   ],
+   "content": "ブラジル1496コソゴ民主共和国1101インドネシア753アンゴラ555タンザニア421パラグアイ347ミャンマー290\n（单位：千ha/年）\n050010001500(2010~20年)(FAO)"
+  },
+  {
+   "id": "p0591_b19",
+   "type": "figure",
+   "bbox": [
+    1203,
+    197,
+    1535,
+    673
+   ],
+   "figureId": "fig_p0591_08"
+  },
+  {
+   "id": "p0591_b20",
+   "type": "caption",
+   "bbox": [
+    1204,
+    677,
+    1533,
+    781
+   ],
+   "content": "どうぞう酸性雨でとけた銅像(9ベルギー)"
+  },
+  {
+   "id": "p0591_b21",
+   "type": "footer",
+   "bbox": [
+    10,
+    2420,
+    1631,
+    2489
+   ],
+   "content": "XXXXX×××××××××××"
+  },
+  {
+   "id": "p0591_b22",
+   "type": "pageNumber",
+   "bbox": [
+    1625,
+    2415,
+    1689,
+    2449
+   ],
+   "content": "587"
+  }
+ ]
+}

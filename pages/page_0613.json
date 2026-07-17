@@ -1,0 +1,99 @@
+{
+ "pageNumber": 613,
+ "printedPageNumber": null,
+ "width": 1742,
+ "height": 2508,
+ "unit": "pixel",
+ "markdown": "受験研究社\n\nISBN978-4-424-62748-7\n\nC6330￥2850E \n\n本体2850円+税10%（定価3,135円）\n\n\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_29_1231_1732_2489.jpg\" alt=\"Image\" width=\"97%\" /></div>\n",
+ "blocks": [
+  {
+   "id": "p0613_b00",
+   "type": "pageHeader",
+   "bbox": [
+    204,
+    131,
+    664,
+    355
+   ],
+   "content": "自由京高学年自在社会"
+  },
+  {
+   "id": "p0613_b01",
+   "type": "pageHeader",
+   "bbox": [
+    1285,
+    117,
+    1662,
+    301
+   ],
+   "content": "9784424627487"
+  },
+  {
+   "id": "p0613_b02",
+   "type": "paragraph",
+   "bbox": [
+    197,
+    393,
+    500,
+    454
+   ],
+   "content": "受験研究社"
+  },
+  {
+   "id": "p0613_b03",
+   "type": "paragraph",
+   "bbox": [
+    1146,
+    657,
+    1659,
+    693
+   ],
+   "content": "ISBN978-4-424-62748-7"
+  },
+  {
+   "id": "p0613_b04",
+   "type": "paragraph",
+   "bbox": [
+    1146,
+    744,
+    1457,
+    779
+   ],
+   "content": "C6330￥2850E"
+  },
+  {
+   "id": "p0613_b05",
+   "type": "paragraph",
+   "bbox": [
+    1143,
+    838,
+    1612,
+    954
+   ],
+   "content": "本体2850円+税10%（定価3,135円）"
+  },
+  {
+   "id": "p0613_b06",
+   "type": "figure",
+   "bbox": [
+    29,
+    1231,
+    1732,
+    2489
+   ],
+   "content": "学力を約束する自由自在ファミリー\n\n自由自在新辞典\n\n参考書国語/社会/算数/理科/英語漢字／ことわざ·四字熟語\n問題集国語/社会/算数/理科国語力を高めることば／百人一首\n用語&資料集社会／理科歴史人物・できごと／算数のなぜ?\n科学のなぜ？／なるほど!理科図録\nはじめての英語",
+   "figureId": "fig_p0613_01"
+  },
+  {
+   "id": "p0613_b07",
+   "type": "pageHeader",
+   "bbox": [
+    1285,
+    365,
+    1662,
+    547
+   ],
+   "content": "1926330028509"
+  }
+ ]
+}

@@ -1,0 +1,1161 @@
+{
+  "schema_version": 3,
+  "locked_plan": "image_generation/LOCKED_PAGE_SEQUENCE.json",
+  "total_images": 640,
+  "images_per_batch": 10,
+  "total_batches": 64,
+  "batches": [
+    {
+      "batch": 1,
+      "start_image": 1,
+      "end_image": 10,
+      "item_numbers": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "manifest": "image_generation/public_batches/BATCH_01.md"
+    },
+    {
+      "batch": 2,
+      "start_image": 11,
+      "end_image": 20,
+      "item_numbers": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "manifest": "image_generation/public_batches/BATCH_02.md"
+    },
+    {
+      "batch": 3,
+      "start_image": 21,
+      "end_image": 30,
+      "item_numbers": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "manifest": "image_generation/public_batches/BATCH_03.md"
+    },
+    {
+      "batch": 4,
+      "start_image": 31,
+      "end_image": 40,
+      "item_numbers": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "manifest": "image_generation/public_batches/BATCH_04.md"
+    },
+    {
+      "batch": 5,
+      "start_image": 41,
+      "end_image": 50,
+      "item_numbers": [
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ],
+      "manifest": "image_generation/public_batches/BATCH_05.md"
+    },
+    {
+      "batch": 6,
+      "start_image": 51,
+      "end_image": 60,
+      "item_numbers": [
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60
+      ],
+      "manifest": "image_generation/public_batches/BATCH_06.md"
+    },
+    {
+      "batch": 7,
+      "start_image": 61,
+      "end_image": 70,
+      "item_numbers": [
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70
+      ],
+      "manifest": "image_generation/public_batches/BATCH_07.md"
+    },
+    {
+      "batch": 8,
+      "start_image": 71,
+      "end_image": 80,
+      "item_numbers": [
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80
+      ],
+      "manifest": "image_generation/public_batches/BATCH_08.md"
+    },
+    {
+      "batch": 9,
+      "start_image": 81,
+      "end_image": 90,
+      "item_numbers": [
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90
+      ],
+      "manifest": "image_generation/public_batches/BATCH_09.md"
+    },
+    {
+      "batch": 10,
+      "start_image": 91,
+      "end_image": 100,
+      "item_numbers": [
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100
+      ],
+      "manifest": "image_generation/public_batches/BATCH_10.md"
+    },
+    {
+      "batch": 11,
+      "start_image": 101,
+      "end_image": 110,
+      "item_numbers": [
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110
+      ],
+      "manifest": "image_generation/public_batches/BATCH_11.md"
+    },
+    {
+      "batch": 12,
+      "start_image": 111,
+      "end_image": 120,
+      "item_numbers": [
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120
+      ],
+      "manifest": "image_generation/public_batches/BATCH_12.md"
+    },
+    {
+      "batch": 13,
+      "start_image": 121,
+      "end_image": 130,
+      "item_numbers": [
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130
+      ],
+      "manifest": "image_generation/public_batches/BATCH_13.md"
+    },
+    {
+      "batch": 14,
+      "start_image": 131,
+      "end_image": 140,
+      "item_numbers": [
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140
+      ],
+      "manifest": "image_generation/public_batches/BATCH_14.md"
+    },
+    {
+      "batch": 15,
+      "start_image": 141,
+      "end_image": 150,
+      "item_numbers": [
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150
+      ],
+      "manifest": "image_generation/public_batches/BATCH_15.md"
+    },
+    {
+      "batch": 16,
+      "start_image": 151,
+      "end_image": 160,
+      "item_numbers": [
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160
+      ],
+      "manifest": "image_generation/public_batches/BATCH_16.md"
+    },
+    {
+      "batch": 17,
+      "start_image": 161,
+      "end_image": 170,
+      "item_numbers": [
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170
+      ],
+      "manifest": "image_generation/public_batches/BATCH_17.md"
+    },
+    {
+      "batch": 18,
+      "start_image": 171,
+      "end_image": 180,
+      "item_numbers": [
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180
+      ],
+      "manifest": "image_generation/public_batches/BATCH_18.md"
+    },
+    {
+      "batch": 19,
+      "start_image": 181,
+      "end_image": 190,
+      "item_numbers": [
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190
+      ],
+      "manifest": "image_generation/public_batches/BATCH_19.md"
+    },
+    {
+      "batch": 20,
+      "start_image": 191,
+      "end_image": 200,
+      "item_numbers": [
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200
+      ],
+      "manifest": "image_generation/public_batches/BATCH_20.md"
+    },
+    {
+      "batch": 21,
+      "start_image": 201,
+      "end_image": 210,
+      "item_numbers": [
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        210
+      ],
+      "manifest": "image_generation/public_batches/BATCH_21.md"
+    },
+    {
+      "batch": 22,
+      "start_image": 211,
+      "end_image": 220,
+      "item_numbers": [
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220
+      ],
+      "manifest": "image_generation/public_batches/BATCH_22.md"
+    },
+    {
+      "batch": 23,
+      "start_image": 221,
+      "end_image": 230,
+      "item_numbers": [
+        221,
+        222,
+        223,
+        224,
+        225,
+        226,
+        227,
+        228,
+        229,
+        230
+      ],
+      "manifest": "image_generation/public_batches/BATCH_23.md"
+    },
+    {
+      "batch": 24,
+      "start_image": 231,
+      "end_image": 240,
+      "item_numbers": [
+        231,
+        232,
+        233,
+        234,
+        235,
+        236,
+        237,
+        238,
+        239,
+        240
+      ],
+      "manifest": "image_generation/public_batches/BATCH_24.md"
+    },
+    {
+      "batch": 25,
+      "start_image": 241,
+      "end_image": 250,
+      "item_numbers": [
+        241,
+        242,
+        243,
+        244,
+        245,
+        246,
+        247,
+        248,
+        249,
+        250
+      ],
+      "manifest": "image_generation/public_batches/BATCH_25.md"
+    },
+    {
+      "batch": 26,
+      "start_image": 251,
+      "end_image": 260,
+      "item_numbers": [
+        251,
+        252,
+        253,
+        254,
+        255,
+        256,
+        257,
+        258,
+        259,
+        260
+      ],
+      "manifest": "image_generation/public_batches/BATCH_26.md"
+    },
+    {
+      "batch": 27,
+      "start_image": 261,
+      "end_image": 270,
+      "item_numbers": [
+        261,
+        262,
+        263,
+        264,
+        265,
+        266,
+        267,
+        268,
+        269,
+        270
+      ],
+      "manifest": "image_generation/public_batches/BATCH_27.md"
+    },
+    {
+      "batch": 28,
+      "start_image": 271,
+      "end_image": 280,
+      "item_numbers": [
+        271,
+        272,
+        273,
+        274,
+        275,
+        276,
+        277,
+        278,
+        279,
+        280
+      ],
+      "manifest": "image_generation/public_batches/BATCH_28.md"
+    },
+    {
+      "batch": 29,
+      "start_image": 281,
+      "end_image": 290,
+      "item_numbers": [
+        281,
+        282,
+        283,
+        284,
+        285,
+        286,
+        287,
+        288,
+        289,
+        290
+      ],
+      "manifest": "image_generation/public_batches/BATCH_29.md"
+    },
+    {
+      "batch": 30,
+      "start_image": 291,
+      "end_image": 300,
+      "item_numbers": [
+        291,
+        292,
+        293,
+        294,
+        295,
+        296,
+        297,
+        298,
+        299,
+        300
+      ],
+      "manifest": "image_generation/public_batches/BATCH_30.md"
+    },
+    {
+      "batch": 31,
+      "start_image": 301,
+      "end_image": 310,
+      "item_numbers": [
+        301,
+        302,
+        303,
+        304,
+        305,
+        306,
+        307,
+        308,
+        309,
+        310
+      ],
+      "manifest": "image_generation/public_batches/BATCH_31.md"
+    },
+    {
+      "batch": 32,
+      "start_image": 311,
+      "end_image": 320,
+      "item_numbers": [
+        311,
+        312,
+        313,
+        314,
+        315,
+        316,
+        317,
+        318,
+        319,
+        320
+      ],
+      "manifest": "image_generation/public_batches/BATCH_32.md"
+    },
+    {
+      "batch": 33,
+      "start_image": 321,
+      "end_image": 330,
+      "item_numbers": [
+        321,
+        322,
+        323,
+        324,
+        325,
+        326,
+        327,
+        328,
+        329,
+        330
+      ],
+      "manifest": "image_generation/public_batches/BATCH_33.md"
+    },
+    {
+      "batch": 34,
+      "start_image": 331,
+      "end_image": 340,
+      "item_numbers": [
+        331,
+        332,
+        333,
+        334,
+        335,
+        336,
+        337,
+        338,
+        339,
+        340
+      ],
+      "manifest": "image_generation/public_batches/BATCH_34.md"
+    },
+    {
+      "batch": 35,
+      "start_image": 341,
+      "end_image": 350,
+      "item_numbers": [
+        341,
+        342,
+        343,
+        344,
+        345,
+        346,
+        347,
+        348,
+        349,
+        350
+      ],
+      "manifest": "image_generation/public_batches/BATCH_35.md"
+    },
+    {
+      "batch": 36,
+      "start_image": 351,
+      "end_image": 360,
+      "item_numbers": [
+        351,
+        352,
+        353,
+        354,
+        355,
+        356,
+        357,
+        358,
+        359,
+        360
+      ],
+      "manifest": "image_generation/public_batches/BATCH_36.md"
+    },
+    {
+      "batch": 37,
+      "start_image": 361,
+      "end_image": 370,
+      "item_numbers": [
+        361,
+        362,
+        363,
+        364,
+        365,
+        366,
+        367,
+        368,
+        369,
+        370
+      ],
+      "manifest": "image_generation/public_batches/BATCH_37.md"
+    },
+    {
+      "batch": 38,
+      "start_image": 371,
+      "end_image": 380,
+      "item_numbers": [
+        371,
+        372,
+        373,
+        374,
+        375,
+        376,
+        377,
+        378,
+        379,
+        380
+      ],
+      "manifest": "image_generation/public_batches/BATCH_38.md"
+    },
+    {
+      "batch": 39,
+      "start_image": 381,
+      "end_image": 390,
+      "item_numbers": [
+        381,
+        382,
+        383,
+        384,
+        385,
+        386,
+        387,
+        388,
+        389,
+        390
+      ],
+      "manifest": "image_generation/public_batches/BATCH_39.md"
+    },
+    {
+      "batch": 40,
+      "start_image": 391,
+      "end_image": 400,
+      "item_numbers": [
+        391,
+        392,
+        393,
+        394,
+        395,
+        396,
+        397,
+        398,
+        399,
+        400
+      ],
+      "manifest": "image_generation/public_batches/BATCH_40.md"
+    },
+    {
+      "batch": 41,
+      "start_image": 401,
+      "end_image": 410,
+      "item_numbers": [
+        401,
+        402,
+        403,
+        404,
+        405,
+        406,
+        407,
+        408,
+        409,
+        410
+      ],
+      "manifest": "image_generation/public_batches/BATCH_41.md"
+    },
+    {
+      "batch": 42,
+      "start_image": 411,
+      "end_image": 420,
+      "item_numbers": [
+        411,
+        412,
+        413,
+        414,
+        415,
+        416,
+        417,
+        418,
+        419,
+        420
+      ],
+      "manifest": "image_generation/public_batches/BATCH_42.md"
+    },
+    {
+      "batch": 43,
+      "start_image": 421,
+      "end_image": 430,
+      "item_numbers": [
+        421,
+        422,
+        423,
+        424,
+        425,
+        426,
+        427,
+        428,
+        429,
+        430
+      ],
+      "manifest": "image_generation/public_batches/BATCH_43.md"
+    },
+    {
+      "batch": 44,
+      "start_image": 431,
+      "end_image": 440,
+      "item_numbers": [
+        431,
+        432,
+        433,
+        434,
+        435,
+        436,
+        437,
+        438,
+        439,
+        440
+      ],
+      "manifest": "image_generation/public_batches/BATCH_44.md"
+    },
+    {
+      "batch": 45,
+      "start_image": 441,
+      "end_image": 450,
+      "item_numbers": [
+        441,
+        442,
+        443,
+        444,
+        445,
+        446,
+        447,
+        448,
+        449,
+        450
+      ],
+      "manifest": "image_generation/public_batches/BATCH_45.md"
+    },
+    {
+      "batch": 46,
+      "start_image": 451,
+      "end_image": 460,
+      "item_numbers": [
+        451,
+        452,
+        453,
+        454,
+        455,
+        456,
+        457,
+        458,
+        459,
+        460
+      ],
+      "manifest": "image_generation/public_batches/BATCH_46.md"
+    },
+    {
+      "batch": 47,
+      "start_image": 461,
+      "end_image": 470,
+      "item_numbers": [
+        461,
+        462,
+        463,
+        464,
+        465,
+        466,
+        467,
+        468,
+        469,
+        470
+      ],
+      "manifest": "image_generation/public_batches/BATCH_47.md"
+    },
+    {
+      "batch": 48,
+      "start_image": 471,
+      "end_image": 480,
+      "item_numbers": [
+        471,
+        472,
+        473,
+        474,
+        475,
+        476,
+        477,
+        478,
+        479,
+        480
+      ],
+      "manifest": "image_generation/public_batches/BATCH_48.md"
+    },
+    {
+      "batch": 49,
+      "start_image": 481,
+      "end_image": 490,
+      "item_numbers": [
+        481,
+        482,
+        483,
+        484,
+        485,
+        486,
+        487,
+        488,
+        489,
+        490
+      ],
+      "manifest": "image_generation/public_batches/BATCH_49.md"
+    },
+    {
+      "batch": 50,
+      "start_image": 491,
+      "end_image": 500,
+      "item_numbers": [
+        491,
+        492,
+        493,
+        494,
+        495,
+        496,
+        497,
+        498,
+        499,
+        500
+      ],
+      "manifest": "image_generation/public_batches/BATCH_50.md"
+    },
+    {
+      "batch": 51,
+      "start_image": 501,
+      "end_image": 510,
+      "item_numbers": [
+        501,
+        502,
+        503,
+        504,
+        505,
+        506,
+        507,
+        508,
+        509,
+        510
+      ],
+      "manifest": "image_generation/public_batches/BATCH_51.md"
+    },
+    {
+      "batch": 52,
+      "start_image": 511,
+      "end_image": 520,
+      "item_numbers": [
+        511,
+        512,
+        513,
+        514,
+        515,
+        516,
+        517,
+        518,
+        519,
+        520
+      ],
+      "manifest": "image_generation/public_batches/BATCH_52.md"
+    },
+    {
+      "batch": 53,
+      "start_image": 521,
+      "end_image": 530,
+      "item_numbers": [
+        521,
+        522,
+        523,
+        524,
+        525,
+        526,
+        527,
+        528,
+        529,
+        530
+      ],
+      "manifest": "image_generation/public_batches/BATCH_53.md"
+    },
+    {
+      "batch": 54,
+      "start_image": 531,
+      "end_image": 540,
+      "item_numbers": [
+        531,
+        532,
+        533,
+        534,
+        535,
+        536,
+        537,
+        538,
+        539,
+        540
+      ],
+      "manifest": "image_generation/public_batches/BATCH_54.md"
+    },
+    {
+      "batch": 55,
+      "start_image": 541,
+      "end_image": 550,
+      "item_numbers": [
+        541,
+        542,
+        543,
+        544,
+        545,
+        546,
+        547,
+        548,
+        549,
+        550
+      ],
+      "manifest": "image_generation/public_batches/BATCH_55.md"
+    },
+    {
+      "batch": 56,
+      "start_image": 551,
+      "end_image": 560,
+      "item_numbers": [
+        551,
+        552,
+        553,
+        554,
+        555,
+        556,
+        557,
+        558,
+        559,
+        560
+      ],
+      "manifest": "image_generation/public_batches/BATCH_56.md"
+    },
+    {
+      "batch": 57,
+      "start_image": 561,
+      "end_image": 570,
+      "item_numbers": [
+        561,
+        562,
+        563,
+        564,
+        565,
+        566,
+        567,
+        568,
+        569,
+        570
+      ],
+      "manifest": "image_generation/public_batches/BATCH_57.md"
+    },
+    {
+      "batch": 58,
+      "start_image": 571,
+      "end_image": 580,
+      "item_numbers": [
+        571,
+        572,
+        573,
+        574,
+        575,
+        576,
+        577,
+        578,
+        579,
+        580
+      ],
+      "manifest": "image_generation/public_batches/BATCH_58.md"
+    },
+    {
+      "batch": 59,
+      "start_image": 581,
+      "end_image": 590,
+      "item_numbers": [
+        581,
+        582,
+        583,
+        584,
+        585,
+        586,
+        587,
+        588,
+        589,
+        590
+      ],
+      "manifest": "image_generation/public_batches/BATCH_59.md"
+    },
+    {
+      "batch": 60,
+      "start_image": 591,
+      "end_image": 600,
+      "item_numbers": [
+        591,
+        592,
+        593,
+        594,
+        595,
+        596,
+        597,
+        598,
+        599,
+        600
+      ],
+      "manifest": "image_generation/public_batches/BATCH_60.md"
+    },
+    {
+      "batch": 61,
+      "start_image": 601,
+      "end_image": 610,
+      "item_numbers": [
+        601,
+        602,
+        603,
+        604,
+        605,
+        606,
+        607,
+        608,
+        609,
+        610
+      ],
+      "manifest": "image_generation/public_batches/BATCH_61.md"
+    },
+    {
+      "batch": 62,
+      "start_image": 611,
+      "end_image": 620,
+      "item_numbers": [
+        611,
+        612,
+        613,
+        614,
+        615,
+        616,
+        617,
+        618,
+        619,
+        620
+      ],
+      "manifest": "image_generation/public_batches/BATCH_62.md"
+    },
+    {
+      "batch": 63,
+      "start_image": 621,
+      "end_image": 630,
+      "item_numbers": [
+        621,
+        622,
+        623,
+        624,
+        625,
+        626,
+        627,
+        628,
+        629,
+        630
+      ],
+      "manifest": "image_generation/public_batches/BATCH_63.md"
+    },
+    {
+      "batch": 64,
+      "start_image": 631,
+      "end_image": 640,
+      "item_numbers": [
+        631,
+        632,
+        633,
+        634,
+        635,
+        636,
+        637,
+        638,
+        639,
+        640
+      ],
+      "manifest": "image_generation/public_batches/BATCH_64.md"
+    }
+  ]
+}

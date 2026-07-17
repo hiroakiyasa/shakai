@@ -1,0 +1,199 @@
+{
+ "pageNumber": 578,
+ "printedPageNumber": null,
+ "width": 1735,
+ "height": 2500,
+ "unit": "pixel",
+ "markdown": "## 2 歴史地図のまとめ\n\nしめ\n\n中学入試によく出題されるできごとのあった位置を日本地図で示しました。ど\n\nかくにん\n\nこで、何がおこったのかを確認しましょう。\n\n\n\n<div style=\"text-align: center;\">じけんノルマントソ号事件</div>\n\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_595_551_1049_905.jpg\" alt=\"Image\" width=\"26%\" /></div>\n\n\n1886年。これをきっかけに国民の間で条約改正の声が高まった。\n\nしまばらあまくさいっき島原·天草一揆（1637年~1638年）んしばくだん\n\n原子爆弹投下（1945年）\n\nらいこう\n\nザビエル来航(1549年)\n\n## fん23元寇\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_296_1922_747_2154.jpg\" alt=\"Image\" width=\"25%\" /></div>\n\n\nぶんえいえき21274年が文永の役、1281年が弘あん\n\n安の役。\n\n\n\n<div style=\"text-align: center;\">へいじらん9平治の乱</div>\n\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_1192_550_1644_848.jpg\" alt=\"Image\" width=\"26%\" /></div>\n\n\nたいらのきよもりみものよしとも\n\n1159年。平清盛が源義朝を\n\nやぶ\n\n破った。\n\n\n\n## あちちくしよう \n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_811_1066_1721_2313.jpg\" alt=\"Image\" width=\"52%\" /></div>\n",
+ "blocks": [
+  {
+   "id": "p0578_b00",
+   "type": "aside_text",
+   "bbox": [
+    4,
+    15,
+    170,
+    2458
+   ],
+   "content": "ALS"
+  },
+  {
+   "id": "p0578_b01",
+   "type": "heading",
+   "bbox": [
+    350,
+    126,
+    1068,
+    208
+   ],
+   "content": "2歴史地図のまとめ"
+  },
+  {
+   "id": "p0578_b02",
+   "type": "paragraph",
+   "bbox": [
+    212,
+    247,
+    1596,
+    360
+   ],
+   "content": "しめ\n\n中学入試によく出題されるできごとのあった位置を日本地図で示しました。ど\nかくにん\n\nこで、何がおこったのかを確認しましょう。"
+  },
+  {
+   "id": "p0578_b03",
+   "type": "caption",
+   "bbox": [
+    595,
+    492,
+    970,
+    549
+   ],
+   "content": "じけんノルマントソ号事件"
+  },
+  {
+   "id": "p0578_b04",
+   "type": "figure",
+   "bbox": [
+    595,
+    551,
+    1049,
+    905
+   ],
+   "content": "1",
+   "figureId": "fig_p0578_01"
+  },
+  {
+   "id": "p0578_b05",
+   "type": "paragraph",
+   "bbox": [
+    592,
+    926,
+    1063,
+    1019
+   ],
+   "content": "1886年。これをきっかけに国民の間で条約改正の声が高まった。"
+  },
+  {
+   "id": "p0578_b06",
+   "type": "paragraph",
+   "bbox": [
+    418,
+    1499,
+    709,
+    1592
+   ],
+   "content": "しまばらあまくさいっき島原·天草一揆（1637年~1638年）"
+  },
+  {
+   "id": "p0578_b07",
+   "type": "paragraph",
+   "bbox": [
+    416,
+    1631,
+    622,
+    1726
+   ],
+   "content": "んしばくだん\n原子爆弹投下（1945年）"
+  },
+  {
+   "id": "p0578_b08",
+   "type": "paragraph",
+   "bbox": [
+    414,
+    1767,
+    759,
+    1821
+   ],
+   "content": "らいこう\nザビエル来航(1549年)"
+  },
+  {
+   "id": "p0578_b09",
+   "type": "heading",
+   "bbox": [
+    294,
+    1859,
+    462,
+    1918
+   ],
+   "content": "fん23元寇"
+  },
+  {
+   "id": "p0578_b10",
+   "type": "figure",
+   "bbox": [
+    296,
+    1922,
+    747,
+    2154
+   ],
+   "figureId": "fig_p0578_02"
+  },
+  {
+   "id": "p0578_b11",
+   "type": "paragraph",
+   "bbox": [
+    291,
+    2162,
+    751,
+    2271
+   ],
+   "content": "ぶんえいえき21274年が文永の役、1281年が弘あん\n安の役。"
+  },
+  {
+   "id": "p0578_b12",
+   "type": "caption",
+   "bbox": [
+    1192,
+    490,
+    1393,
+    547
+   ],
+   "content": "へいじらん9平治の乱"
+  },
+  {
+   "id": "p0578_b13",
+   "type": "figure",
+   "bbox": [
+    1192,
+    550,
+    1644,
+    848
+   ],
+   "figureId": "fig_p0578_03"
+  },
+  {
+   "id": "p0578_b14",
+   "type": "paragraph",
+   "bbox": [
+    1194,
+    853,
+    1611,
+    960
+   ],
+   "content": "たいらのきよもりみものよしとも\n1159年。平清盛が源義朝を\nやぶ\n\n破った。"
+  },
+  {
+   "id": "p0578_b15",
+   "type": "heading",
+   "bbox": [
+    1305,
+    1019,
+    1655,
+    1077
+   ],
+   "content": "あちちくしよう"
+  },
+  {
+   "id": "p0578_b16",
+   "type": "figure",
+   "bbox": [
+    811,
+    1066,
+    1721,
+    2313
+   ],
+   "content": "ほうげん\n\nだんのうら保元の乱(1156年）\n\n壇浦の戦いじようきゆう\n\n（1185年）承久の乱（1221年）\n\nおうにん\n\nしものせきしうやく\n\n下関条約応仁の乱(1467年~1477年）\nほんのうじ\n\n（1895年）本能寺の変(1582年）\n\n原子爆弹投下\n\n（1945年）\n\n3\n島根鳥取京都\n広島岡山兵庫\n口m S \n福岡香川大阪\n佐賀大分愛媛徳島奈良\n長崎熊本高知和歌山\n9\n宮崎\n\nおおしおへいはちろう\n鹿児島大塩平八郎の乱\n（1837年）\n0\n藤原純友の乱\n（939年～941年）\nてつぼう\n\n鉄砲伝来（1543年）西南戦争（1877年）",
+   "figureId": "fig_p0578_04"
+  }
+ ]
+}
