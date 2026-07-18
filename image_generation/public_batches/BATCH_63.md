@@ -22,3 +22,39 @@
 ## 最短再開指示
 
 `Use $source-to-image-deck and continue from image_generation/state.json.`
+
+<!-- AUTO_RAW_URLS:START -->
+
+## 取得すべき raw URL（自動生成・別端末はこれをそのまま取得）
+
+すべて `raw.githubusercontent.com` の生ファイル。`github.com/.../blob/...` は使わない。
+
+### システム／ルール（毎回必須）
+- マスタープロンプト: https://raw.githubusercontent.com/hiroakiyasa/shakai/main/image_generation/MASTER_PROMPT.md
+- 固定生成ルール: https://raw.githubusercontent.com/hiroakiyasa/shakai/main/image_generation/LOCKED_GENERATION_RULES.md
+- 進捗・状態(state): https://raw.githubusercontent.com/hiroakiyasa/shakai/main/image_generation/state.json
+- キャラクター参照画像: https://raw.githubusercontent.com/hiroakiyasa/shakai/main/image_generation/assets/character_reference.png
+
+### このバッチの元素材（登録分のみ・漏れなく取得）
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/pages/page_0599.json
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/pages/page_0600.json
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/pages/page_0601.json
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/pages/page_0602.json
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/pages/page_0603.json
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/pages/page_0604.json
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/pages/page_0605.json
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/pages/page_0606.json
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/pages/page_0607.json
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/pages/page_0608.json
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/pages_md/page_0599.md
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/pages_md/page_0600.md
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/pages_md/page_0601.md
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/pages_md/page_0602.md
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/pages_md/page_0603.md
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/pages_md/page_0604.md
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/pages_md/page_0605.md
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/pages_md/page_0606.md
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/pages_md/page_0607.md
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/pages_md/page_0608.md
+
+<!-- AUTO_RAW_URLS:END -->

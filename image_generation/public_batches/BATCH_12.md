@@ -22,3 +22,52 @@
 ## 最短再開指示
 
 `Use $source-to-image-deck and continue from image_generation/state.json.`
+
+<!-- AUTO_RAW_URLS:START -->
+
+## 取得すべき raw URL（自動生成・別端末はこれをそのまま取得）
+
+すべて `raw.githubusercontent.com` の生ファイル。`github.com/.../blob/...` は使わない。
+
+### システム／ルール（毎回必須）
+- マスタープロンプト: https://raw.githubusercontent.com/hiroakiyasa/shakai/main/image_generation/MASTER_PROMPT.md
+- 固定生成ルール: https://raw.githubusercontent.com/hiroakiyasa/shakai/main/image_generation/LOCKED_GENERATION_RULES.md
+- 進捗・状態(state): https://raw.githubusercontent.com/hiroakiyasa/shakai/main/image_generation/state.json
+- キャラクター参照画像: https://raw.githubusercontent.com/hiroakiyasa/shakai/main/image_generation/assets/character_reference.png
+
+### このバッチの元素材（登録分のみ・漏れなく取得）
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/figures/p0118_f01.jpg
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/figures/p0122_f01.jpg
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/figures/p0123_f01.jpg
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/figures/p0125_f01.jpg
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/figures/p0125_f02.jpg
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/figures/p0126_f01.jpg
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/figures/p0126_f02.jpg
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/figures/p0127_f01.jpg
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/pages/page_0118.json
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/pages/page_0119.json
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/pages/page_0120.json
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/pages/page_0121.json
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/pages/page_0122.json
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/pages/page_0123.json
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/pages/page_0124.json
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/pages/page_0125.json
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/pages/page_0126.json
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/pages/page_0127.json
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/pages_md/page_0118.md
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/pages_md/page_0119.md
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/pages_md/page_0120.md
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/pages_md/page_0121.md
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/pages_md/page_0122.md
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/pages_md/page_0123.md
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/pages_md/page_0124.md
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/pages_md/page_0125.md
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/pages_md/page_0126.md
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/pages_md/page_0127.md
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/tables/p0120_t01.jpg
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/tables/p0120_t02.jpg
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/tables/p0121_t01.jpg
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/tables/p0124_t01.jpg
+- https://raw.githubusercontent.com/hiroakiyasa/shakai/main/tables/p0127_t01.jpg
+
+<!-- AUTO_RAW_URLS:END -->
