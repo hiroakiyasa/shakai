@@ -4,7 +4,14 @@
 
 - ハブraw: `https://raw.githubusercontent.com/hiroakiyasa/shakai/main/BOOTSTRAP.md`
 - 生成対象: 中学受験社会科の縦型学習ページ、941×1672px（9:16）PNG、1バッチ10枚
-- 進捗: 570枚完了（バッチ01〜57）。**次に生成するのはバッチ58**。残りは58〜64。
+- 進捗: **615枚完了**（001〜616、576のみ欠番）。**残りは25枚**。
+- 残り25枚の消化単位は固定バッチ58〜64ではなく、**残バッチ R1 / R2 / R3**：
+  - `REMAINING_R1`（10枚: 576, 617〜625）
+  - `REMAINING_R2`（10枚: 626〜635）
+  - `REMAINING_R3`（5枚: 636〜640。637〜640は総復習ページ）
+- バッチ表raw: `https://raw.githubusercontent.com/hiroakiyasa/shakai/main/image_generation/public_batches/REMAINING_R1.md`
+- **デザイン見本（完成8枚）**: `image_generation/style_reference/` — 描き始める前に必ず全部見る。
+- 別端末ChatGPTでの実行手順と貼り付け用プロンプト: `image_generation/CHATGPT_REMAINING_PROMPT.md`
 
 ---
 
